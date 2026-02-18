@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春が終わる前に",
+  "base_artist": "Halo at 四畳半",
+  "createdAt": "2026-02-18T17:06:46.773485Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春が終わる前に",
+      "artist": "Halo at 四畳半",
+      "has_synced": false,
+      "path": "select/pl_01_春が終わる前に_Halo_at_四畳半.txt"
+    }
+  ]
+}
